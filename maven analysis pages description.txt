@@ -1,0 +1,39 @@
+1. Sales Analysis Page:
+• Visualize sales trends over time (monthly, yearly).
+Analyze sales performance by region, product category, or customer
+segment.
+Identify top-selling products and their contribution
+to overall revenue.
+
+2. Orders Overview Page:
+Display order fulfillment metrics (order processing time, shipping duration,
+etc.). I
+• Evaluate order volume trends and patterns.
+. Analyze the correlation between order size and sales revenue.
+
+3. Returns Analysis Page:
+• Visualize return rates and reasons for returns.
+. Explore return trends by product, customer type, or geographical location.
+• Assess the impact of returns on overall revenue and customer satisfaction.
+
+4. Customers Insights Page:
+. Segment customers based on purchasing membership card, occupation,
+education etc.
+• Analyze customer retention rates and churn patterns.
+• Identify high-value customers and their contribution to sales.
+
+5. Stores Performance Page:
+   -Compare store-wise sales performance and growth.
+
+6. Some miscellaneous
+° Categorize products based on sales volume and profitability.
+• Identify slow-moving or high-margin products for optimization.
+• Visualize product performance across different regions or customer
+segments.
+
+7. Evaluation Criteria:
+. Effectiveness in data visualization and storytelling.
+. Depth of insights derived from the analysis.
+. Clarity in presenting correlations and patterns within the data.
+• User-friendly design and navigation across dashboard pages.
+• Practical recommendations for business improvement based on findings.
